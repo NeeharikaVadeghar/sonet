@@ -1,0 +1,47 @@
+body{
+        width: 100%;
+        background-color: rgb(118, 182, 235);
+         padding: 10px ;
+         font-family: Arial, Helvetica, sans-serif;
+        
+}
+#wrapper{
+    width: 100%;
+    position: relative;
+    margin:0 auto 0 auto;
+    font-family: 'Times New Roman', Times, serif
+    }
+.jumbotron{
+    color:#e25882;
+    background: #ecf0f1;
+}
+
+div{
+    width: 100%;
+}
+.thumbnail{
+    border: 10px solid #ccc; 
+}
+
+footer{
+    color: rgb(238, 94, 149);
+    
+}
+nav{
+    float: left;
+    width: 100%;
+    height: 40px;
+    background-color: rgb(226, 110, 154);
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    padding :15px 0 3px 25px;
+    
+}
+nav a:hover{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+
+}
